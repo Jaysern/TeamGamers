@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(75,12): warning C4129: 'N': unrecognized character escape sequence
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(97,10): warning C4101: 'buffera': unreferenced local variable
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(98,9): warning C4101: 'amount': unreferenced local variable
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(742,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(755,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(820,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(846,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(860,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(879,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(898,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(917,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(936,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(956,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(976,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(995,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1014,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1034,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1096,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1116,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1136,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1156,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1176,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1196,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1216,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1529,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1571,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1627,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1711,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1725,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1767,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(1795,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Source.cpp(2061,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Nott-A-Code (TeamGamerz).vcxproj -> C:\Users\User\Documents\Visual Studio 2019\Nott-A-Code (TeamGamerz)\Debug\Nott-A-Code (TeamGamerz).exe
